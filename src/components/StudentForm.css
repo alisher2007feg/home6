@@ -1,0 +1,10 @@
+.col-lg-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(193, 193, 177);
+  margin-top: 15px !important;
+  padding: 10px 0px 15px;
+  
+  color: white !important;
+}
