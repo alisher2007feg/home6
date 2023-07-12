@@ -19,7 +19,7 @@ const StudentsTable = memo(({ students, editStudent }) => {
           <th>Age</th>
           <th>Group</th>
           <th className="text-end">Description</th>
-          <th>Edit and Delate</th>
+          <th>change or removal</th>
         </tr>
       </thead>
       <tbody>
